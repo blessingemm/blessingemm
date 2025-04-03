@@ -5,10 +5,10 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-Recent graduate with a kin interest for software engineering
-Currently deepening my expertise in front-end technologies through the **ALX ProDev Front-End Development Program**
-Passionate about using tech to bridge the digital divide in rural communities.
-Interested in AI, software engineering, and community-driven tech solutions.
+Recent graduate with a kin interest for software engineering,
+currently deepening my expertise in front-end technologies through the **ALX ProDev Front-End Development Program**,
+passionate about using tech to bridge the digital divide in rural communities.
+I am interested in AI, software engineering, and community-driven tech solutions.
 
 ## Skills
 
