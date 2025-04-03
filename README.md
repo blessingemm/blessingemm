@@ -14,7 +14,7 @@ Interested in AI, software engineering, and community-driven tech solutions.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Personal Landing Page-A showcase of my skill| <a href= "https://github.com/blessingemm/Innotech-Presentation/tree/main">Innotech Presentation </a> |
+| set of wireframe and a slide deck presenstation | <a href= "https://github.com/blessingemm/Innotech-Presentation/tree/main">Innotech Presentation </a> |
 | Food Selling website(Group Project)  | <a href="https://google.com">food confectionary</a>|
 |          ||  |
 |       | |
