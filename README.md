@@ -5,13 +5,12 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-Recent graduate with a kin interest for software engineering,
+I have a kin interest for software engineering,
 currently deepening my expertise in front-end technologies through the **ALX ProDev Front-End Development Program**,
-passionate about using tech to bridge the digital divide in rural communities.
+and passionate about using tech to bridge the digital divide in rural communities.
 I am interested in AI, software engineering, and community-driven tech solutions.
 
 ## Skills
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | set of wireframe and a slide deck presenstation | <a href= "https://github.com/blessingemm/Innotech-Presentation/tree/main">Innotech Presentation </a> |
