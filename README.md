@@ -3,8 +3,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I'm a Physics graduate turned Frontend Developer, passionate about using tech to solve real problems—especially in underserved communities.  
-Currently building with **React**, **Next.js**, **Tailwind CSS**, and **TypeScript** through the **ALX ProDev Front-End Development Program**.  
+I'm a Physics graduate turned Frontend Developer, passionate about using tech to solve real problems—especially in underserved communities. Currently building with **React**, **Next.js**, **Tailwind CSS**, and **TypeScript** through the **ALX ProDev Front-End Development Program**.  
 I also explore **AI tools**, organize digital skills outreach, and love making tech accessible to rural youth.
 
 ---
@@ -62,7 +61,8 @@ I’m committed to bridging the digital divide in rural communities through tech
 
 <div>
   <img src="https://img.shields.io/badge/-ALX_AI_Career_Essentials-FF6F00?&style=for-the-badge&logo=alx&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ALX_Frontend_ProDev_Program-00BFFF?&style=for-the-badge&logo=alx&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ALX_Professional_Foundation_Program-FF6F00?&style=for-the-badge&logo=alx&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ALX_Frontend_Program-00BFFF?&style=for-the-badge&logo=alx&logoColor=white" />
 </div>
 
 ---
