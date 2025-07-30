@@ -3,8 +3,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I'm a Physics graduate turned Frontend Developer, passionate about using tech to solve real problems—especially in underserved communities. Currently building with **React**, **Next.js**, **Tailwind CSS**, and **TypeScript** through the **ALX ProDev Front-End Development Program**.  
-I also explore **AI tools**, organize digital skills outreach, and love making tech accessible to rural youth.
+I'm a Physics graduate turned Frontend Developer, passionate about using tech to solve real problems—especially in underserved communities. Currently building with **React**, **Next.js**, **Tailwind CSS**, and **TypeScript** through the **ALX ProDev Front-End Development Program**. I also explore **AI tools**, organize digital skills outreach, and love making tech accessible to rural youth.
 
 ---
 
@@ -20,7 +19,7 @@ I’m committed to bridging the digital divide in rural communities through tech
 |------------|--------------------|
 | React, Tailwind CSS, Next.js | ALX ProDev Projects |
 | UI/UX (Wireframing & Pitch) | [Innotech Presentation](https://github.com/blessingemm/Innotech-Presentation) |
-| HTML, CSS, JavaScript | [Food Selling Website (Team Project)](https://github.com/blessingemm/Food-Confectionary) |
+| HTML, CSS, JavaScript | [Headphones Website – ALX Project](https://github.com/blessingemm/alx_html_css/tree/main/headphones) |
 | AI Prompting | ALX AI Career Essentials |
 | Google Workspace Tools | Digital Skills Workshop Planning |
 | Git & GitHub | Project Version Control & Collaboration |
@@ -29,8 +28,12 @@ I’m committed to bridging the digital divide in rural communities through tech
 
 ## Featured Projects
 
-- [Innotech Presentation (Pitch Deck & Wireframes)](https://github.com/blessingemm/Innotech-Presentation)
-- [Food Selling Website (Team Project)](https://github.com/blessingemm/Food-Confectionary)
+- [Innotech Presentation (Pitch Deck & Wireframes)](https://github.com/blessingemm/Innotech-Presentation)  
+  A startup idea presentation with UI wireframes and a slide deck.
+
+- [Headphones Website – ALX Project](https://github.com/blessingemm/alx_html_css/tree/main/headphones)  
+  A product landing page built with HTML & CSS as part of the ALX front-end curriculum.
+
 - More coming soon…
 
 ---
